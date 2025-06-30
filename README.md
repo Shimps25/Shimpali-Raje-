@@ -1,2 +1,5 @@
 # Shimpali-Raje-
 I design with purpose—and precision. With a completed degree in Robotics and Automation and an honors focus in Aerial Robotics, I specialize in mechanical design and CAD modeling of high-performance drone frames. I’m drawn to the challenge of making things that not only work, but work beautifully—where structure meets aerodynamics and every curve has intent. Being a British citizen raised in the UK, I bring a global mindset, cultural fluency, and the confidence to collaborate across borders. Whether I’m engineering UAVs or engaging in public speaking, I operate where technical skill meets human connection—because I believe great design should both fly and speak for itself.
+
+
+![image](https://github.com/user-attachments/assets/c588963a-99aa-4fdb-b604-dece14bf7728)
